@@ -1,25 +1,35 @@
 # 英语单词  1-100
 2021-01-26
 
-## 1. compulsory  
-义务 必修； 
-> English was compulsory from the sixth grade on
-
-## 2. courtship  
-求爱期 恋爱期 求爱； 
-> I often  received letters describing their courtships.
-
-## 3. toad 
-蟾蜍 癞蛤蟆 ； 
-> ‘The toad wants to eat the swan’s meat.’
-
-4. outgoing 外向的； they were outgoing and lively. 外向 活泼；
-5. paddy  稻田 ；across the low green hills and the shimmering rice paddies ；
-6. shimmer 淡光 发微光；  穿越低矮的山丘 穿越油亮的稻田。。。
-7. cult 狂热 崇拜 异教； avoid the sort of personality cult that had developed around Chairman Mao
-8. latrine  厕所 ； forced him to drink urine from a public latrine.
-9. auspicious  吉祥 吉利； Red is an auspicious color in China,
-10. innuendo  影射 暗指； she added her own lyrics that were full of sexual innuendo.
+1. compulsory  
+    义务 必修； 
+    > English was compulsory from the sixth grade on
+2. courtship  
+    求爱期 恋爱期 求爱； 
+    > I often  received letters describing their courtships.
+3. toad 
+    蟾蜍 癞蛤蟆 ； 
+    > ‘The toad wants to eat the swan’s meat.’
+4. outgoing 
+	外向的； 
+	> they were outgoing and lively. 外向 活泼；
+5. paddy  
+	稻田 ；
+	> across the low green hills and the shimmering rice paddies ；
+6. shimmer 
+	淡光 发微光；  穿越低矮的山丘 穿越油亮的稻田。。。
+7. cult 
+	狂热 崇拜 异教； 
+	> avoid the sort of personality cult that had developed around Chairman Mao
+8. latrine  
+	厕所 ； 
+	> forced him to drink urine from a public latrine.
+9. auspicious  
+	吉祥 吉利； 
+	> Red is an auspicious color in China,
+10. innuendo 
+    影射 暗指； 
+    > she added her own lyrics that were full of sexual innuendo. (*XXXX-XX-XX*)
 11. tulip  郁金香；
 12. bulb  球茎 灯泡；
 13. mania  狂热； tulipmania 郁金香狂热；
