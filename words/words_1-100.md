@@ -16,9 +16,9 @@
 5. paddy  
 	稻田 ；
 	> across the low green hills and the shimmering rice paddies ；
-6. shimmer 
+6. shimmer  
 	淡光 发微光；  穿越低矮的山丘 穿越油亮的稻田。。。
-7. cult 
+7. cult  
 	狂热 崇拜 异教； 
 	> avoid the sort of personality cult that had developed around Chairman Mao
 8. latrine  
