@@ -7,10 +7,10 @@
 2. courtship  
     求爱期 恋爱期 求爱； 
     > I often  received letters describing their courtships.
-3. toad 
-    蟾蜍 癞蛤蟆 ； 
+3. toad  
+	蟾蜍 癞蛤蟆 ； 
     > ‘The toad wants to eat the swan’s meat.’
-4. outgoing 
+4. outgoing  
 	外向的； 
 	> they were outgoing and lively. 外向 活泼；
 5. paddy  
@@ -27,7 +27,7 @@
 9. auspicious  
 	吉祥 吉利； 
 	> Red is an auspicious color in China,
-10. innuendo 
+10. innuendo   
     影射 暗指； 
     > she added her own lyrics that were full of sexual innuendo. (*XXXX-XX-XX*)
 11. tulip  郁金香；
