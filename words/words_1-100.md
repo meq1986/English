@@ -63,7 +63,8 @@
 23. transfix  
 	因（恐惧 惊愕）动弹不得；使惊呆； 
 	> Willy and his brothers stared up at the balcony for more than four hours, transfixed by the new machine.
-24. intrigue  激起...兴趣；引发...好奇心 ； 
+24. intrigue  
+	激起...兴趣；引发...好奇心 ； 
 	> which proved to be equally intriguing to the residents
 25. extramarital  
 	婚外的；
