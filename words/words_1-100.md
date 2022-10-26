@@ -30,26 +30,58 @@
 10. innuendo   
     影射 暗指； 
     > she added her own lyrics that were full of sexual innuendo. (*XXXX-XX-XX*)
-11. tulip  郁金香；
-12. bulb  球茎 灯泡；
-13. mania  狂热； tulipmania 郁金香狂热；
-14. pitfall 陷阱；
-15. speculation  推测； 投机；  the tulipmania serves as a parable for the pitfalls that excessive greed and speculation can lead to
-16. parable  比喻 ；
-17. affluent  富裕的 富人区；Following the affluent, the merchant middle classes of Dutch society  sought to emulate their wealthier neighbors  
-18. emulate  仿真 看齐；
-19. dregs  残渣 渣滓； even to its lowest dregs, embarked in the tulip trade
-20. mart  市场；
-21. leverage 杠杆作用 杠杆效力； People began buying tulips with leverage
-22. liquidate 清盘 变卖； holders were forced to liquidate - to sell their bulbs at any price
-23. transfix  因（恐惧 惊愕）动弹不得；使惊呆； Willy and his brothers stared up at the balcony for more than four hours, transfixed by the new machine.
-24. intrigue  激起...兴趣；引发...好奇心 ； which proved to be equally intriguing to the residents
-25. extramarital  婚外的；
-26. wicked  邪恶的 放荡的； the mistresses were wicked
-27. spectator  观众；  the spectators who couldn’t fit in Willy’s house stood outside the window, holding umbrellas.
-28. arrogant  自大 傲慢； I was just like a boss, very arrogant.
-29. antenna  天线 触角； Sometimes the picture was not good, so I held the antenna.
-30. diligence  勤勉 努力； native intelligence and diligence were adequate for small-scale construction work,
+11. tulip  
+	郁金香；
+12. bulb  
+	球茎 灯泡；
+13. mania  
+	狂热  
+	tulipmania 郁金香狂热；
+14. pitfall  
+	陷阱；
+15. speculation  
+	推测； 投机；  
+	> the tulipmania serves as a parable for the pitfalls that excessive greed and speculation can lead to
+16. parable  
+	比喻 ；
+17. affluent  
+	富裕的 富人区；
+	> Following the affluent, the merchant middle classes of Dutch society  sought to emulate their wealthier neighbors  
+18. emulate  
+	仿真 看齐；
+19. dregs  
+	残渣 渣滓；  
+	> even to its lowest dregs, embarked in the tulip trade
+20. mart  
+	市场；
+21. leverage  
+	杠杆作用 杠杆效力
+	> People began buying tulips with leverage
+22. liquidate  
+	清盘 变卖
+	> holders were forced to liquidate - to sell their bulbs at any price
+23. transfix  
+	因（恐惧 惊愕）动弹不得；使惊呆； 
+	> Willy and his brothers stared up at the balcony for more than four hours, transfixed by the new machine.
+24. intrigue  激起...兴趣；引发...好奇心 ； 
+	> which proved to be equally intriguing to the residents
+25. extramarital  
+	婚外的；
+26. wicked  
+	邪恶的 放荡的； 
+	> the mistresses were wicked
+27. spectator  
+	观众；  
+	> the spectators who couldn’t fit in Willy’s house stood outside the window, holding umbrellas.
+28. arrogant  
+	自大 傲慢； 
+	> I was just like a boss, very arrogant.
+29. antenna  
+	天线 触角； 
+	> Sometimes the picture was not good, so I held the antenna.
+30. diligence  
+	勤勉 努力； 
+	> native intelligence and diligence were adequate for small-scale construction work,
 31. shrewd 精明的 精于盘算的； bidding for projects required shrewd calculation.
 32. coolie 苦力 （含冒犯意 指东方国家没有技能的工人）
 33. chalk  粉笔 I stole some chalks and I wrote words on the door at my home.
