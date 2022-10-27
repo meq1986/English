@@ -83,18 +83,37 @@
 30. diligence  
 	勤勉 努力； 
 	> native intelligence and diligence were adequate for small-scale construction work,
-31. shrewd 精明的 精于盘算的； bidding for projects required shrewd calculation.
-32. coolie 苦力 （含冒犯意 指东方国家没有技能的工人）
-33. chalk  粉笔 I stole some chalks and I wrote words on the door at my home.
-34. shuffle  洗牌；把纸张打乱顺序；he’d quickly shuffle some papers so I wouldn’t see that he had been studying his dictionary.
-35. fray  磨损；but his clothes—shirts with frayed collars,
-36. impotent 无能的； yangwei... impotent
-37. mock  嘲笑 he would often say, in mock earnestness, “I see that you still have a big problem with impotence.”
-
-	1. 虚假的；模仿的；  China is building mock versions of US military ships in the desert
-38. cadre  骨干 干部； The college was controlled by conservative cadres who criticized romance among students as an unnecessary distraction.
-39. demerit  过失，处分（学校给学生记得）；  
-40. dossier  档案 卷宗； Young people who engaged in courtship could be punished by an official demerit that would remain in their political dossier,
+31. shrewd  
+	精明的 精于盘算的； 
+	> bidding for projects required shrewd calculation.
+32. coolie  
+	苦力 （含冒犯意 指东方国家没有技能的工人）
+33. chalk  
+	粉笔 
+	> I stole some chalks and I wrote words on the door at my home.
+34. shuffle  
+	洗牌；把纸张打乱顺序；
+	> he’d quickly shuffle some papers so I wouldn’t see that he had been studying his dictionary.
+35. fray  
+	磨损；
+	> but his clothes—shirts with frayed collars,
+36. impotent  
+	无能的；
+	> yangwei... impotent
+37. mock  
+	嘲笑
+	> he would often say, in mock earnestness, “I see that you still have a big problem with impotence.”  
+	
+	虚假的；模仿的；  
+	> China is building mock versions of US military ships in the desert
+38. cadre  
+	骨干 干部； 
+	> The college was controlled by conservative cadres who criticized romance among students as an unnecessary distraction.
+39. demerit  
+	过失，处分（学校给学生记得）；  
+40. dossier  
+	档案 卷宗； 
+	> Young people who engaged in courtship could be punished by an official demerit that would remain in their political dossier,
 41. niche  舒适的工作；商机； a peasant from northern Sichuan who had never found his niche in the changing economy.
 42. counterfeit  伪造的，仿冒的； In China’s new economy, somebody produced a counterfeit of everything;
 43. dilute  稀释 冲淡； A common trick was to dilute the feed with rapeseed hulls, which can’t be digested.

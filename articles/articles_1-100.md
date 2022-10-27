@@ -82,6 +82,17 @@
 
 2022-10-26
 
+### 17. [China’s Xi emerges from Communist Party Congress with more power, set for third term](https://edition.cnn.com/2022/10/22/china/china-party-congress-closing-day-intl-hnk/index.html)
+
+2022-10-27
+
+### 18. [Xi Jinping enters third term as China’s most powerful leader in decades surrounded by loyalists](https://edition.cnn.com/2022/10/22/china/china-party-congress-xi-jinping-leadership-lineup-revealed-intl-hnk/index.html)
+
+
+
+
+
+
 
 
 
