@@ -114,26 +114,64 @@
 40. dossier  
 	档案 卷宗； 
 	> Young people who engaged in courtship could be punished by an official demerit that would remain in their political dossier,
-41. niche  舒适的工作；商机； a peasant from northern Sichuan who had never found his niche in the changing economy.
-42. counterfeit  伪造的，仿冒的； In China’s new economy, somebody produced a counterfeit of everything;
-43. dilute  稀释 冲淡； A common trick was to dilute the feed with rapeseed hulls, which can’t be digested.
-44. scout  侦查 物色； a private-school headmaster from Zhejiang province arrived in Fuling to scout for new teachers.
-45. transgression 越轨 犯规； Both had been criticized for their romance, among other minor transgressions.
-46. escort 护送；he escorted Nancy to the home
-47. mean 吝啬 小气 刻薄； she is undersexed and mean,
-48. clutch  紧紧抓住； she clutched a silk money  bag so tightly that it had turned black and greasy.
-49. greasy  油腻 光滑；
-50. outlying 边远的；  Most students came from outlying islands;
-51. transitory  暂时的；The Wang economic empire was transitory but diversified
-52. decorate  装饰 修饰 铺陈； The biography detailed Mr. Wang’s love for China, as well as his decorated career as a member of the Communist Party.
-53. jam  推挤 （发射电波）干扰 ； the Soviet Union frequently jammed the Voice of America,
-54. mimic 模仿；mimicking mimicked ; my students listened religiously, mimicking the rhythms,
-55. jot 匆匆记下； In a lined notebook, he jotted down words and phrases from various programs,all jumbled together:
-56. jumble 使乱堆 使混乱；
-57. obscenity 淫秽的语言 下流的行为； American Idioms was obscenity-free, but Willy tracked down supplementary materials.
-58. dedicated  专门的 专用的  dedicate 奉献 献身；
-59. exclusively 仅仅 只；  The volume was dedicated almost exclusively to the sexual,
-60. bald  秃； The peasant who was courting her was completely bald.
+41. niche  
+	舒适的工作；商机； 
+	> a peasant from northern Sichuan who had never found his niche in the changing economy.
+42. counterfeit  
+	伪造的，仿冒的； 
+	> In China’s new economy, somebody produced a counterfeit of everything;
+43. dilute  
+	稀释 冲淡； 
+	> A common trick was to dilute the feed with rapeseed hulls, which can’t be digested.
+44. scout  
+	侦查 物色； 
+	> a private-school headmaster from Zhejiang province arrived in Fuling to scout for new teachers.
+45. transgression  
+	越轨 犯规； 
+	> Both had been criticized for their romance, among other minor transgressions.
+46. escort  
+	护送；
+	> he escorted Nancy to the home
+47. mean  
+	吝啬 小气 刻薄； 
+	> she is undersexed and mean,
+48. clutch  
+	紧紧抓住； 
+	> she clutched a silk money  bag so tightly that it had turned black and greasy.
+49. greasy  
+	油腻 光滑；
+50. outlying  
+	边远的；  
+	> Most students came from outlying islands;
+51. transitory  
+	暂时的；
+	> The Wang economic empire was transitory but diversified
+52. decorate  
+	装饰 修饰 铺陈； 
+	> The biography detailed Mr. Wang’s love for China, as well as his decorated career as a member of the Communist Party.
+53. jam  
+	推挤 （发射电波）干扰 ； 
+	> the Soviet Union frequently jammed the Voice of America,
+54. mimi  
+	模仿；mimicking mimicked ; 
+	> my students listened religiously, mimicking the rhythms,
+55. jot  
+	匆匆记下； 
+	> In a lined notebook, he jotted down words and phrases from various programs,all jumbled together:
+56. jumble  
+	使乱堆 使混乱；
+57. obscenity  
+	淫秽的语言 下流的行为； 
+	> American Idioms was obscenity-free, but Willy tracked down supplementary materials.
+58. dedicated  
+	专门的 专用的  
+	dedicate 奉献 献身；
+59. exclusively  
+	仅仅 只；  
+	> The volume was dedicated almost exclusively to the sexual,
+60. bald  
+	秃； 
+	> The peasant who was courting her was completely bald.
 61. browbeat 敲打 吓唬； they enlisted relatives to call and browbeat the young couple.
 62. scandalous  丑闻 可耻的； In the past, their situation would have been scandalous:
 63. wary 警惕 小心；  but the experiences of the past year had taught him to be wary of promises.

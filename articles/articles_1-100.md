@@ -88,9 +88,11 @@
 
 ### 18. [Xi Jinping enters third term as China’s most powerful leader in decades surrounded by loyalists](https://edition.cnn.com/2022/10/22/china/china-party-congress-xi-jinping-leadership-lineup-revealed-intl-hnk/index.html)
 
+2022-10-28
 
+### 19. [Dutch foreign ministry investigating reports that China set up two purportedly illegal police stations in Netherlands](https://edition.cnn.com/2022/10/27/europe/netherlands-china-illegal-police-stations-intl/index.html)
 
-
+### 20. [Hong Kong stocks plunge 6% as fears about Xi’s third term trump China GDP data](https://edition.cnn.com/2022/10/23/economy/china-gdp-released-xi-third-term-stock-market-intl-hnk/index.html)
 
 
 
