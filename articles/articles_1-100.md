@@ -94,6 +94,9 @@
 
 ### 20. [Hong Kong stocks plunge 6% as fears about Xi’s third term trump China GDP data](https://edition.cnn.com/2022/10/23/economy/china-gdp-released-xi-third-term-stock-market-intl-hnk/index.html)
 
+2022-10-29
+
+### 21. [What Happened to Hu Jintao?](https://archive.ph/zy5Vn#selection-359.0-359.27)
 
 
 

@@ -172,26 +172,64 @@
 60. bald  
 	秃； 
 	> The peasant who was courting her was completely bald.
-61. browbeat 敲打 吓唬； they enlisted relatives to call and browbeat the young couple.
-62. scandalous  丑闻 可耻的； In the past, their situation would have been scandalous:
-63. wary 警惕 小心；  but the experiences of the past year had taught him to be wary of promises.
-64. crackdown  镇压 ； the June 4 crackdown
-65. hazy  朦胧 隐约； impressions of the incident were particularly hazy;
-66. leaflet 传单； a male university student threw leaflets into the air and was immediately detained.
-67. cordon （由警察）包围 封锁；The Square itself had been cordoned off
-68. windbreaker  风衣；They were not well dressed: worn trousers, cheap windbreakers.
-69. souvenir  纪念品；  they weren’t smiling, or taking pictures, or buying souvenirs.
-70. walkie-talkie  对讲机；
-71. pedicab 人力三轮车； After finishing the peanuts, the pedicab driver woke up the boss and ordered a huge bowl of dumplings.
-72. courtesy 礼貌 礼节； Polat told me that the morning Yabaolu rate had been 8.86 yuan to the dollar, but by afternoon it had dropped to 8.84. He offered 8.85, out of courtesy.
-73. embark 出发 从事 搭乘（船 飞机）； he often embarked on long explanations of how some corrupt border had been tightened in a place like Kazakhstan, sending a decimal-point ripple back to Beijing.
-74. derivative 衍生的； I figured that I could do some kind of derivative trading that combined the inside information of a clipper with the Yabaolu money-changing rumor network.
-75. dislocate 脱臼  During the struggle, I had dislocated the third finger of my left hand
-76. deteriorate 恶化 退化； my ability to hold a conversation in Chinese was rapidly deteriorating.
-77. profuse  大量的 充实的；  He apologized profusely about the robbery,
-78. decree  法令 诏书；
-79. martial  战时的 军事的； In the summer of 1989, Li Peng had announced the official decree of martial law,
-80. harass  骚扰 使 困扰； angry citizens were telephoning and harassing twenty Beijing residents who also happened to be named Li Peng.
+61. browbeat  
+	敲打 吓唬； 
+	> they enlisted relatives to call and browbeat the young couple.
+62. scandalous  
+	丑闻 可耻的； 
+	> In the past, their situation would have been scandalous:
+63. wary  
+	警惕 小心； 
+	> but the experiences of the past year had taught him to be wary of promises.
+64. crackdown  
+	镇压 ； 
+	> the June 4 crackdown
+65. hazy  
+	朦胧 隐约； 
+	> impressions of the incident were particularly hazy;
+66. leaflet  
+	传单； 
+	> a male university student threw leaflets into the air and was immediately detained.
+67. cordon  
+	（由警察）包围 封锁；
+	> The Square itself had been cordoned off
+68. windbreaker  
+	风衣；
+	> They were not well dressed: worn trousers, cheap windbreakers.
+69. souvenir  
+	纪念品；  
+	> they weren’t smiling, or taking pictures, or buying souvenirs.
+70. walkie-talkie  
+	对讲机；
+71. pedicab  
+	人力三轮车； 
+	> After finishing the peanuts, the pedicab driver woke up the boss and ordered a huge bowl of dumplings.
+72. courtesy  
+	礼貌 礼节； 
+	> Polat told me that the morning Yabaolu rate had been 8.86 yuan to the dollar, but by afternoon it had dropped to 8.84. He offered 8.85, out of courtesy.
+73. embark  
+	出发 从事 搭乘（船 飞机）；
+	> he often embarked on long explanations of how some corrupt border had been tightened in a place like Kazakhstan, sending a decimal-point ripple back to Beijing.
+74. derivative  
+	衍生的； 
+	> I figured that I could do some kind of derivative trading that combined the inside information of a clipper with the Yabaolu money-changing rumor network.
+75. dislocate  
+	脱臼  
+	> During the struggle, I had dislocated the third finger of my left hand
+76. deteriorate  
+	恶化 退化； 
+	> my ability to hold a conversation in Chinese was rapidly deteriorating.
+77. profuse 
+	大量的 充实的；  
+	> He apologized profusely about the robbery,
+78. decree  
+	法令 诏书；
+79. martial  
+	战时的 军事的； 
+	> In the summer of 1989, Li Peng had announced the official decree of martial law,
+80. harass  
+	骚扰 使 困扰； 
+	> angry citizens were telephoning and harassing twenty Beijing residents who also happened to be named Li Peng.
 81. ineptitude  无能的；Only a criminal of unusual ineptitude would be beaten by a foreigner at two in the morning,
 82. punctuate  标标点 圈点； A line of empty pediments punctuated the clear-flowing Yalu and ended at the far bank.
 83. shiver  发抖 颤抖 （因寒冷）
