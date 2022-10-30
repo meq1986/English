@@ -230,25 +230,63 @@
 80. harass  
 	骚扰 使 困扰； 
 	> angry citizens were telephoning and harassing twenty Beijing residents who also happened to be named Li Peng.
-81. ineptitude  无能的；Only a criminal of unusual ineptitude would be beaten by a foreigner at two in the morning,
-82. punctuate  标标点 圈点； A line of empty pediments punctuated the clear-flowing Yalu and ended at the far bank.
-83. shiver  发抖 颤抖 （因寒冷）
-84. mischievous  淘气的 恶作剧的； I picked out one mischievous boy and followed him with the scope.
-85. simultaneously  同时的； But over time I realized that conflicting ideas could exist simultaneously,
-86. sheer  完全的 十足的； The sheer complexity of the modern landscape had a lot to do with it.
-87. spin spun 快速旋转 “I thought you said he was an ethnic Chinese from America!” he said loudly, and then he spun on his heel.
-88. heel 脚后跟；
-89. bandage  绷带；He asked about my bandaged finger,
-90. slur  （通常因醉酒或疲劳）含混不清的说话；诽谤 诋毁； He was drinking heavily now; he started to slur his words and then he got fussy.He complained about his son and he complained about the service in the restaurant.
-91. fussy 大惊小怪的 挑剔的；
-92. stumble  拌脚 跌跌撞撞 ； He stood up and stumbled over his chair;
-93. wad 沓 捆； “I can pay!” the old man yelled again, waving a wad of cash.
-94. patchwork  拼凑物； But above ground, there is an entirely separate patchwork of modern buildings, organizations, and land-use rights.
-95. sneer  冷笑 嘲笑； Intellectuals in cities such as Beijing sneered at Shenzhen for all the usual reasons—no history, no culture, no class
-96. transcribe  抄写 录制； I asked the students to transcribe a recent conversation.
-97. dispirit  沮丧 郁郁寡欢； Sometimes I owe my being dispirited to the surroundings, especially the oppressive atmosphere in our college.
-98. blink  眨眼；  he said that I had a way of blinking my eyes when I talked to a man,
-99. scam  骗局；
-100. rampant  猖獗；
-101. crack down 打压；
-102. pyramid scheme 传销；金字塔骗局；she was recruited by a company that ran a pyramid scheme. She knew that it was a scam—the government was cracking down on pyramids,which had run rampant across southern China.
+81. ineptitude  
+	无能的；
+	> Only a criminal of unusual ineptitude would be beaten by a foreigner at two in the morning,
+82. punctuate  
+	标标点 圈点； 
+	> A line of empty pediments punctuated the clear-flowing Yalu and ended at the far bank.
+83. shiver  
+	发抖 颤抖 （因寒冷）
+84. mischievous  
+	淘气的 恶作剧的； 
+	> I picked out one mischievous boy and followed him with the scope.
+85. simultaneously  
+	同时的； 
+	> But over time I realized that conflicting ideas could exist simultaneously,
+86. sheer  
+	完全的 十足的； 
+	> The sheer complexity of the modern landscape had a lot to do with it.
+87. spin spun  
+	快速旋转 
+	> “I thought you said he was an ethnic Chinese from America!” he said loudly, and then he spun on his heel.
+88. heel  
+	脚后跟；
+89. bandage  
+	绷带；
+	> He asked about my bandaged finger,
+90. slur  
+	（通常因醉酒或疲劳）含混不清的说话；诽谤 诋毁； 
+	> He was drinking heavily now; he started to slur his words and then he got fussy.He complained about his son and he complained about the service in the restaurant.
+91. fussy  
+	大惊小怪的 挑剔的；
+92. stumble  
+	拌脚 跌跌撞撞 ； 
+	> He stood up and stumbled over his chair;
+93. wad  
+	沓 捆； 
+	> “I can pay!” the old man yelled again, waving a wad of cash.
+94. patchwork  
+	拼凑物； 
+	> But above ground, there is an entirely separate patchwork of modern buildings, organizations, and land-use rights.
+95. sneer  
+	冷笑 嘲笑； 
+	> Intellectuals in cities such as Beijing sneered at Shenzhen for all the usual reasons—no history, no culture, no class
+96. transcribe  
+	抄写 录制； 
+	> I asked the students to transcribe a recent conversation.
+97. dispirit  
+	沮丧 郁郁寡欢； 
+	> Sometimes I owe my being dispirited to the surroundings, especially the oppressive atmosphere in our college.
+98. blink  
+	眨眼；  
+	> he said that I had a way of blinking my eyes when I talked to a man,
+99. scam  
+	骗局；
+100. rampant  
+	猖獗；
+101. crack down  
+	打压；
+102. pyramid scheme  
+	传销；金字塔骗局；
+	> she was recruited by a company that ran a pyramid scheme. She knew that it was a scam—the government was cracking down on pyramids,which had run rampant across southern China.
