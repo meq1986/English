@@ -98,6 +98,13 @@
 
 ### 21. [What Happened to Hu Jintao?](https://archive.ph/zy5Vn#selection-359.0-359.27)
 
+2022-10-30
+
+### 22. [Under Xi Jinping, zero-Covid is accelerating China’s surveillance state](https://edition.cnn.com/2022/10/20/china/china-party-congress-xi-jinping-zero-covid-intl-hnk/index.html)
+
+### 23. [Tesla’s stock sinks after cutting prices on cars in China](https://edition.cnn.com/2022/10/24/investing/tesla-china-price-cuts/index.html)
+
+
 
 
 
