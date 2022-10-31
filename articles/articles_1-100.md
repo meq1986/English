@@ -104,7 +104,9 @@
 
 ### 23. [Tesla’s stock sinks after cutting prices on cars in China](https://edition.cnn.com/2022/10/24/investing/tesla-china-price-cuts/index.html)
 
+2022-10-31
 
+### 24. [Meditation, tools and check-ins: How a teen group is tackling the mental health crisis](https://edition.cnn.com/2022/10/22/health/teen-mental-health-support-wellness/index.html)
 
 
 
