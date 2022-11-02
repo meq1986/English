@@ -108,7 +108,9 @@
 
 ### 24. [Meditation, tools and check-ins: How a teen group is tackling the mental health crisis](https://edition.cnn.com/2022/10/22/health/teen-mental-health-support-wellness/index.html)
 
+2022-11-02
 
+## 25. [Cache of 19th-Century Blue Jeans Discovered in Abandoned Arizona Mineshaft](https://www.smithsonianmag.com/history/cache-of-19th-century-blue-jeans-discovered-in-abandoned-arizona-mineshaft-180981014/)
 
 
 
