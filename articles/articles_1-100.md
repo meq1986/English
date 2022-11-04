@@ -110,7 +110,40 @@
 
 2022-11-02
 
-## 25. [Cache of 19th-Century Blue Jeans Discovered in Abandoned Arizona Mineshaft](https://www.smithsonianmag.com/history/cache-of-19th-century-blue-jeans-discovered-in-abandoned-arizona-mineshaft-180981014/)
+### 25. [Cache of 19th-Century Blue Jeans Discovered in Abandoned Arizona Mineshaft](https://www.smithsonianmag.com/history/cache-of-19th-century-blue-jeans-discovered-in-abandoned-arizona-mineshaft-180981014/)
 
+2022-11-03
 
+### 26. [ China is caught in a zero-Covid trap of its own making ](https://edition.cnn.com/2022/11/02/china/china-covid-foxconn-tibet-disney-intl-hnk/index.html)
 
+2022-11-04
+
+### 27. [ From Apple to Disney, China’s Covid curbs are again hurting business ](https://edition.cnn.com/2022/11/02/business/covid-china-iphone-shanghai-disneyland-intl-hnk/index.html)
+
+### 28. [ Workers flee China’s biggest iPhone factory over Covid outbreak ](https://edition.cnn.com/2022/11/01/tech/china-covid-workers-zhengzhou-iphone-factory-hnk-intl/index.html)
+
+### 29. ['Magic mirror': Hidden image revealed in reflection of centuries-old artifact](https://edition.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html)
+
+### 30. []()
+
+### 31. []()
+
+### 32. []()
+
+### 33. []()
+
+### 34. []()
+
+### 35. []()
+
+### 36. []()
+
+### 37. []()
+
+### 38. []()
+
+### 39. []()
+
+### 40. []()
+
+### 41. []()
