@@ -124,7 +124,9 @@
 
 ### 29. ['Magic mirror': Hidden image revealed in reflection of centuries-old artifact](https://edition.cnn.com/style/article/magic-mirror-cincinnati-art-museum-scn/index.html)
 
-### 30. []()
+2022-11-07
+
+### 30. [ Hong Kong says it’s back open for business. Will the world buy it? ](https://edition.cnn.com/2022/11/05/asia/hong-kong-reopen-finance-summit-rugby-sevens-intl-hnk/index.html)
 
 ### 31. []()
 
