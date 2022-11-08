@@ -128,11 +128,13 @@
 
 ### 30. [ Hong Kong says it’s back open for business. Will the world buy it? ](https://edition.cnn.com/2022/11/05/asia/hong-kong-reopen-finance-summit-rugby-sevens-intl-hnk/index.html)
 
-### 31. []()
+2022-11-08
 
-### 32. []()
+### 31. [What exit? China doubles down on zero-Covid pledge despite public frustration](https://edition.cnn.com/2022/11/07/china/china-zero-covid-disaffection-intl-hnk/index.html)
 
-### 33. []()
+### 32. [Apple expects iPhone 14 shipments to be hit by China’s Covid curbs](https://edition.cnn.com/2022/11/06/business/china-covid-iphone-14-shipments-hit-hnk-intl/index.html)
+
+### 33. [Xi Jinping has secured his power at home. Now he’s stepping back out on the international stage](https://edition.cnn.com/2022/11/07/china/xi-jinping-diplomacy-china-intl-hnk-mic/index.html)
 
 ### 34. []()
 
