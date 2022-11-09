@@ -136,11 +136,13 @@
 
 ### 33. [Xi Jinping has secured his power at home. Now he’s stepping back out on the international stage](https://edition.cnn.com/2022/11/07/china/xi-jinping-diplomacy-china-intl-hnk-mic/index.html)
 
-### 34. []()
+2022-11-09
 
-### 35. []()
+### 34. [‘The worst is behind us’: Hong Kong hosts top global bankers for finance summit ](https://edition.cnn.com/2022/11/02/business/hong-kong-finance-summit-john-lee-intl-hnk/index.html)
 
-### 36. []()
+### 35. [Stocks in Hong Kong log best week in more than a decade](https://edition.cnn.com/2022/11/04/investing/china-hong-kong-stocks/index.html)
+
+### 36. [Russian missile strikes overshadow cyberattacks as Ukraine reels from blackouts ](https://edition.cnn.com/2022/11/05/politics/russia-cyber-attacks-missiles-ukraine-blackouts/index.html)
 
 ### 37. []()
 
@@ -151,3 +153,58 @@
 ### 40. []()
 
 ### 41. []()
+
+### 42. []()
+
+### 43. []()
+
+### 44. []()
+
+### 45. []()
+
+### 46. []()
+
+### 47. []()
+
+### 48. []()
+
+### 49. []()
+
+### 50. []()
+
+### 51. []()
+
+### 52. []()
+
+### 53. []()
+
+### 54. []()
+
+### 55. []()
+
+### 56. []()
+
+### 57. []()
+
+### 58. []()
+
+### 59. []()
+
+### 60. []()
+
+### 61. []()
+
+### 62. []()
+
+### 63. []()
+
+### 64. []()
+
+### 65. []()
+
+### 66. []()
+
+### 67. []()
+
+### 68. []()
+
