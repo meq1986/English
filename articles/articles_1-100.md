@@ -144,11 +144,13 @@
 
 ### 36. [Russian missile strikes overshadow cyberattacks as Ukraine reels from blackouts ](https://edition.cnn.com/2022/11/05/politics/russia-cyber-attacks-missiles-ukraine-blackouts/index.html)
 
-### 37. []()
+2022-11-10
 
-### 38. []()
+### 37. [Germany blocks sale of chip factory to China over security fears ](https://edition.cnn.com/2022/11/09/tech/germany-blocks-chip-factory-sale-china/index.html)
 
-### 39. []()
+### 38. [China is ‘committed to net zero,’ head of top Asian development bank says at COP27 ](https://edition.cnn.com/2022/11/09/business/aiib-president-china-climate-commitment-cop27-intl-hnk/index.html)
+
+### 39. [Alibaba’s Jack Ma and China’s super-rich see billions wiped off fortunes as economy slows ](https://edition.cnn.com/2022/11/08/intl_business/china-hurun-rich-list-wealth-plunge-intl-hnk-biz/index.html)
 
 ### 40. []()
 
