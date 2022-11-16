@@ -289,4 +289,4 @@
 	打压；
 102. pyramid scheme  
 	传销；金字塔骗局；
-	> she was recruited by a company that ran a pyramid scheme. She knew that it was a scam—the government was cracking down on pyramids,which had run rampant across southern China.
+		> she was recruited by a company that ran a pyramid scheme. She knew that it was a scam—the government was cracking down on pyramids,which had run rampant across southern China.
