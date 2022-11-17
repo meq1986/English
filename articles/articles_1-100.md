@@ -152,11 +152,26 @@
 
 ### 39. [Alibaba’s Jack Ma and China’s super-rich see billions wiped off fortunes as economy slows ](https://edition.cnn.com/2022/11/08/intl_business/china-hurun-rich-list-wealth-plunge-intl-hnk-biz/index.html)
 
-### 40. []()
+2022-11-17
 
-### 41. []()
+### 40. [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco-3/)
 
-### 42. []()
+文章很长，读了好几天。  
+一个华人作家写的，有关Costco，一个大型的平价超市。  
+通过描写跟Costco有关的家庭故事，展现出移民的心态。  
+
+虽然都是小事，但能从中看到大时代的历史，文化冲突。  
+作者是一个诗人，很厉害，母语中文，但用英文写诗。  
+
+阅读此类文学性质的文章，的确跟新闻稿不同。  
+文学性质的文字，生词多，笔触细腻，用词不同，表达的思想感情都不同。  
+这个需要字斟句酌，好好体会。 跟中文的道理是一样的。  
+
+而读新闻稿，博客，也有生词，但都是流行用法，比较简单。  
+
+### 41. [China’s Xi Jinping lectures Justin Trudeau over alleged leaks ](https://edition.cnn.com/2022/11/16/asia/china-xi-jinping-canada-justin-trudeau-g20-intl/index.html)
+
+### 42. [Study shows 1 billion young people are at risk for hearing loss. This is how to prevent it ](https://edition.cnn.com/2022/11/15/health/hearing-loss-headphones-study-wellness/index.html)
 
 ### 43. []()
 
