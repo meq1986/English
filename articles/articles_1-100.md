@@ -173,9 +173,11 @@
 
 ### 42. [Study shows 1 billion young people are at risk for hearing loss. This is how to prevent it ](https://edition.cnn.com/2022/11/15/health/hearing-loss-headphones-study-wellness/index.html)
 
-### 43. []()
+2022-11-18
 
-### 44. []()
+### 43. [Twitter chaos spills into public view as Musk clashes with and fires employees on the platform ](https://edition.cnn.com/2022/11/15/tech/elon-musk-twitter-employees/index.html)
+
+### 44. [G20’s criticism of Russia shows the rise of a new Asian power. And it isn’t China ](https://edition.cnn.com/2022/11/17/india/modi-india-g20-influence-intl-hnk/index.html)
 
 ### 45. []()
 
@@ -225,3 +227,66 @@
 
 ### 68. []()
 
+### 69. []()
+
+### 70. []()
+
+### 71. []()
+
+### 72. []()
+
+### 73. []()
+
+### 74. []()
+
+### 75. []()
+
+### 76. []()
+
+### 77. []()
+
+### 78. []()
+
+### 79. []()
+
+### 80. []()
+
+### 81. []()
+
+### 82. []()
+
+### 83. []()
+
+### 84. []()
+
+### 85. []()
+
+### 86. []()
+
+### 87. []()
+
+### 88. []()
+
+### 89. []()
+
+### 90. []()
+
+### 91. []()
+
+### 92. []()
+
+### 93. []()
+
+### 94. []()
+
+### 95. []()
+
+### 96. []()
+
+### 97. []()
+
+### 98. []()
+
+### 99. []()
+
+### 100. []()
