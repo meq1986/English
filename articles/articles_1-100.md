@@ -179,11 +179,13 @@
 
 ### 44. [G20’s criticism of Russia shows the rise of a new Asian power. And it isn’t China ](https://edition.cnn.com/2022/11/17/india/modi-india-g20-influence-intl-hnk/index.html)
 
-### 45. []()
+2022-11-21
 
-### 46. []()
+### 45. [Taliban to impose their interpretation of Sharia law in Afghanistan ](https://edition.cnn.com/2022/11/15/asia/taliban-afghanistan-sharia-law-intl-hnk/index.html)
 
-### 47. []()
+### 46. [China’s Xi starts first day at G20 with a whirlwind of meetings with US allies ](https://edition.cnn.com/2022/11/14/china/china-xi-g20-summit-day-1-intl-hnk/index.html)
+
+### 47. [Shrinking role of China’s public intellectuals will hold back country’s rise](https://archive.ph/znFTh)
 
 ### 48. []()
 
