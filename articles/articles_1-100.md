@@ -187,9 +187,11 @@
 
 ### 47. [Shrinking role of China’s public intellectuals will hold back country’s rise](https://archive.ph/znFTh)
 
-### 48. []()
+2022-11-25
 
-### 49. []()
+### 48. [China’s Covid cases hit record as dissent grows over tough restrictions ](https://edition.cnn.com/2022/11/24/asia/china-covid-highest-daily-case-number-intl-hnk/index.html)
+
+### 49. [Chinese agent bribed Taiwan colonel to surrender if war began, prosecutors claim ](https://edition.cnn.com/2022/11/22/asia/taiwan-officer-corruption-charge-intl-hnk/index.html)
 
 ### 50. []()
 
