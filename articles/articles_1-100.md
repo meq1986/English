@@ -193,9 +193,11 @@
 
 ### 49. [Chinese agent bribed Taiwan colonel to surrender if war began, prosecutors claim ](https://edition.cnn.com/2022/11/22/asia/taiwan-officer-corruption-charge-intl-hnk/index.html)
 
-### 50. []()
+2022-11-28
 
-### 51. []()
+### 50. [Stories of Ukrainian resistance revealed after Kherson pullout ](https://edition.cnn.com/2022/11/24/europe/kherson-pullout-ukrainian-resistance-intl/index.html)
+
+### 51. [Protests erupt across China in unprecedented challenge to Xi Jinping’s zero-Covid policy](https://edition.cnn.com/2022/11/26/china/china-protests-xinjiang-fire-shanghai-intl-hnk/index.html)
 
 ### 52. []()
 
