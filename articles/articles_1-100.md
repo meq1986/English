@@ -199,9 +199,11 @@
 
 ### 51. [Protests erupt across China in unprecedented challenge to Xi Jinping’s zero-Covid policy](https://edition.cnn.com/2022/11/26/china/china-protests-xinjiang-fire-shanghai-intl-hnk/index.html)
 
-### 52. []()
+2022-11-29
 
-### 53. []()
+### 52. [Twitter searches for China protests bombarded by spam and porn, raising alarms among researchers ](https://edition.cnn.com/2022/11/28/tech/twitter-china-protests-spam/index.html)
+
+### 53. [At the heart of China’s protests against zero-Covid, young people cry for freedom ](https://edition.cnn.com/2022/11/28/china/china-protests-covid-political-freedom-intl-hnk-mic/index.html)
 
 ### 54. []()
 
