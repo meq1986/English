@@ -205,9 +205,11 @@
 
 ### 53. [At the heart of China’s protests against zero-Covid, young people cry for freedom ](https://edition.cnn.com/2022/11/28/china/china-protests-covid-political-freedom-intl-hnk-mic/index.html)
 
-### 54. []()
+2022-11-30
 
-### 55. []()
+### 54. [BBC journalist ‘beaten and kicked by the police’ as protests spread across China ](https://edition.cnn.com/2022/11/28/media/shanghai-journalist-bbc-arrested-china-hnk-intl/index.html)
+
+### 55. [Global markets fall after protests erupt in China over Covid lockdowns ](https://edition.cnn.com/2022/11/27/investing/markets-china-lockdowns-intl-hnk/index.html)
 
 ### 56. []()
 
