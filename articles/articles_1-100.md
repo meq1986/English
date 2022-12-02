@@ -211,7 +211,9 @@
 
 ### 55. [Global markets fall after protests erupt in China over Covid lockdowns ](https://edition.cnn.com/2022/11/27/investing/markets-china-lockdowns-intl-hnk/index.html)
 
-### 56. []()
+2022-12-01
+
+### 56. [Jiang Zemin, former leader who paved the way for China’s rise, dies at 96 ](https://edition.cnn.com/2022/11/30/china/jiang-zemin-china-president-obit-intl-hnk/index.html)
 
 ### 57. []()
 
