@@ -215,7 +215,9 @@
 
 ### 56. [Jiang Zemin, former leader who paved the way for China’s rise, dies at 96 ](https://edition.cnn.com/2022/11/30/china/jiang-zemin-china-president-obit-intl-hnk/index.html)
 
-### 57. []()
+2022-12-05
+
+### 57. [ Opinion: The comic ingenuity of Chinese protesters](https://edition.cnn.com/2022/12/01/opinions/china-protesters-covid-humor-rea-wasserstrom/index.html)
 
 ### 58. []()
 
