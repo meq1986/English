@@ -219,7 +219,9 @@
 
 ### 57. [ Opinion: The comic ingenuity of Chinese protesters](https://edition.cnn.com/2022/12/01/opinions/china-protesters-covid-humor-rea-wasserstrom/index.html)
 
-### 58. []()
+2022-12-06
+
+### 58. [‘I hold China accountable’: Uyghur families demand answers over fire that triggered protests ](https://edition.cnn.com/2022/12/01/china/china-protests-urumqi-fire-deaths-covid-dst-intl-hnk/index.html)
 
 ### 59. []()
 
