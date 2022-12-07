@@ -223,7 +223,9 @@
 
 ### 58. [‘I hold China accountable’: Uyghur families demand answers over fire that triggered protests ](https://edition.cnn.com/2022/12/01/china/china-protests-urumqi-fire-deaths-covid-dst-intl-hnk/index.html)
 
-### 59. []()
+2022-12-07
+
+### 59. [ China signals it could soften its zero-Covid policy, but there are more questions than answers ](https://edition.cnn.com/2022/12/01/china/china-protests-zero-covid-position-intl-hnk-mic/index.html)
 
 ### 60. []()
 
