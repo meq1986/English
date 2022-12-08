@@ -227,7 +227,9 @@
 
 ### 59. [ China signals it could soften its zero-Covid policy, but there are more questions than answers ](https://edition.cnn.com/2022/12/01/china/china-protests-zero-covid-position-intl-hnk-mic/index.html)
 
-### 60. []()
+2022-12-08
+
+### 60. [China scraps some of its most controversial Covid rules, in significant step toward reopening ](https://edition.cnn.com/2022/12/07/china/china-covid-restrictions-explainer-intl-hnk/index.html)
 
 ### 61. []()
 
