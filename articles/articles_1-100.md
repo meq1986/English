@@ -231,9 +231,11 @@
 
 ### 60. [China scraps some of its most controversial Covid rules, in significant step toward reopening ](https://edition.cnn.com/2022/12/07/china/china-covid-restrictions-explainer-intl-hnk/index.html)
 
-### 61. []()
+2022-12-12
 
-### 62. []()
+### 61. [Russia’s elite begins to ponder a Putinless future](https://archive.ph/zuTDi)
+
+### 62. [ Do you really need a new phone every 2 years? How to get more out of your devices ](https://edition.cnn.com/2022/12/11/business/phone-upgrade-environmental-impact-climate/index.html)
 
 ### 63. []()
 
