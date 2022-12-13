@@ -237,7 +237,10 @@
 
 ### 62. [ Do you really need a new phone every 2 years? How to get more out of your devices ](https://edition.cnn.com/2022/12/11/business/phone-upgrade-environmental-impact-climate/index.html)
 
-### 63. []()
+2022-12-13
+
+### 63. [How a Twitter account with a cat avatar took on Beijing ]( https://edition.cnn.com/2022/12/10/china/china-twitter-teacher-li-profile-intl-hnk/index.html)
+
 
 ### 64. []()
 
