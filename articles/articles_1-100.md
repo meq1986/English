@@ -241,10 +241,11 @@
 
 ### 63. [How a Twitter account with a cat avatar took on Beijing ]( https://edition.cnn.com/2022/12/10/china/china-twitter-teacher-li-profile-intl-hnk/index.html)
 
+2022-12-14
 
-### 64. []()
+### 64. [Oldest DNA sheds light on a 2 million-year-old ecosystem that has no modern parallel ](https://edition.cnn.com/2022/12/07/world/oldest-dna-sequence-discovered-greenland-scn/index.html)
 
-### 65. []()
+### 65. [As China moves away from zero-Covid, health experts warn of dark days ahead ](https://edition.cnn.com/2022/12/06/china/china-zero-covid-relaxation-crisis-intl-hnk-mic/index.html)
 
 ### 66. []()
 
