@@ -247,7 +247,9 @@
 
 ### 65. [As China moves away from zero-Covid, health experts warn of dark days ahead ](https://edition.cnn.com/2022/12/06/china/china-zero-covid-relaxation-crisis-intl-hnk-mic/index.html)
 
-### 66. []()
+2022-12-15
+
+### 66. [Taiwan's 'living hell' traffic is a tourism problem, say critics](https://edition.cnn.com/travel/article/taiwan-traffic-war-tourism-intl-hnk/index.html)
 
 ### 67. []()
 
