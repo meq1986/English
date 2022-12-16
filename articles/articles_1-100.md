@@ -251,11 +251,13 @@
 
 ### 66. [Taiwan's 'living hell' traffic is a tourism problem, say critics](https://edition.cnn.com/travel/article/taiwan-traffic-war-tourism-intl-hnk/index.html)
 
-### 67. []()
+2022-12-16
 
-### 68. []()
+### 67. [Chinese diplomats wanted by UK police for questioning return to Beijing ](https://edition.cnn.com/2022/12/14/uk/manchester-chinese-consulate-diplomats-removed-intl-hnk/index.html)
 
-### 69. []()
+### 68. [UK government eyes ban on single-use plastic plates and cutlery ]( https://edition.cnn.com/2022/12/14/europe/single-use-plastic-cutlery-ban-england-climate-intl/index.html)
+
+### 69. ['1984,' George Orwell's novel of repression, tops Russian bestseller lists](https://edition.cnn.com/style/article/orwell-1984-russian-bestseller-scli-intl/index.html)
 
 ### 70. []()
 
