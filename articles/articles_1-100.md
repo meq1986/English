@@ -259,15 +259,21 @@
 
 ### 69. ['1984,' George Orwell's novel of repression, tops Russian bestseller lists](https://edition.cnn.com/style/article/orwell-1984-russian-bestseller-scli-intl/index.html)
 
-### 70. []()
+2022-12-20
 
-### 71. []()
+### 70. [China could see nearly a million deaths as it exits zero-Covid, study says ](https://edition.cnn.com/2022/12/19/china/china-covid-study-one-million-deaths-intl-hnk-mic/index.html)
 
-### 72. []()
+### 71. [‘One extreme to the other’: Chinese megacity Chongqing says people with Covid can go to work ](https://edition.cnn.com/2022/12/19/business/chongqing-china-covid-workers-intl-hnk/index.html)
 
-### 73. []()
 
-### 74. []()
+### 72. [China bets on private sector to boost Covid-hit economy ](https://edition.cnn.com/2022/12/19/business/china-private-sector-covid-hit-economy-intl-hnk/index.html )
+
+2022-12-23
+
+### 73. [ Blizzard tells China’s ‘World of Warcraft’ fans to back up data as it seeks new partner ](https://edition.cnn.com/2022/12/14/tech/blizzard-netease-transition-world-of-warcraft-china-intl-hnk/index.html)
+
+### 74. [ As crematoriums fill up, China shifts how it counts Covid deaths ](https://edition.cnn.com/2022/12/22/china/china-covid-deaths-crematorium-intl-hnk-mic/index.html )
+
 
 ### 75. []()
 
