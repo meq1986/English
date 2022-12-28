@@ -274,12 +274,16 @@
 
 ### 74. [ As crematoriums fill up, China shifts how it counts Covid deaths ](https://edition.cnn.com/2022/12/22/china/china-covid-deaths-crematorium-intl-hnk-mic/index.html )
 
+2022-12-27
 
-### 75. []()
+### 75. [Opinion: In zero-Covid China, a different death toll emerges ](https://edition.cnn.com/2022/11/14/opinions/zero-covid-china-life-death-toll-bossons/index.html)
 
-### 76. []()
+2022-12-28
 
-### 77. []()
+### 76. [In newly liberated villages, Ukrainian investigators uncover horrific claims of Russian sexual violence ](https://edition.cnn.com/2022/11/02/europe/russia-ukraine-kherson-sexual-violence-intl/index.html)
+
+### 77. [Pope Francis orders return to Greece of Parthenon sculptures held in Vatican](https://edition.cnn.com/style/article/vatican-greece-parthenon-sculptures/index.html)
+
 
 ### 78. []()
 
