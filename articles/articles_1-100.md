@@ -284,8 +284,10 @@
 
 ### 77. [Pope Francis orders return to Greece of Parthenon sculptures held in Vatican](https://edition.cnn.com/style/article/vatican-greece-parthenon-sculptures/index.html)
 
+2022-12-30
 
-### 78. []()
+### 78. [Why talking to strangers can make us smarter](https://www.bbc.com/future/article/20221026-why-talking-to-strangers-can-make-us-happier) 
+
 
 ### 79. []()
 
